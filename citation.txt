@@ -1,0 +1,9 @@
+@inproceedings{REPO-213,
+    author = "Yu, Qihang and Li, Yingwei and Mei, Jieru and Zhou, Yuyin and Yuille, Alan",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "4",
+    pages = "3225--3233",
+    title = "{CAKES: Channel-wise Automatic KErnel Shrinking for Efficient 3D Networks}",
+    volume = "35",
+    year = "2021"
+}
